@@ -5,9 +5,16 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rahfianugerah/nlp-twitter-sentiment-analysis/blob/main/LICENSE)
 ![Python](https://img.shields.io/badge/Made_with-Python-blue.svg)
 
+<div align="center">
+  <img src="https://github.com/rahfianugerah/nlp-twitter-sentiment-analysis/assets/156213717/1010f123-602b-4fe9-bed1-25b8f212150c"/>
+</div>
+
 ## Project Overview
 <p align="justify">
-  
+  This project aims to analyze the sentiment of tweets, classifying them into four categories: positive, negative, neutral, and irrelevant. 
+  By leveraging natural language processing (NLP) techniques, the project will extract the emotional tone of tweets, providing valuable 
+  insights into public opinion on specific topics, brand perception, or event reception. 
+  This sentiment analysis will go beyond a simple positive-negative binary, allowing for a more nuanced understanding of the conversation happening on Twitter.
 </p>
 
 ![Image](https://github.com/rxzv/rpsic/assets/156213717/694cbca1-60dd-47ff-9a87-74efcc559bbb)
