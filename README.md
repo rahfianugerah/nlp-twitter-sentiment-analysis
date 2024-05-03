@@ -2,7 +2,7 @@
 
 ![Finished Project]( https://img.shields.io/badge/Finished_Project-Yes-green)
 ![TensorFlow]( https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rxzv/nlp-twitter-sentiment-analysis/blob/main/LICENSE)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rahfianugerah/nlp-twitter-sentiment-analysis/blob/main/LICENSE)
 ![Python](https://img.shields.io/badge/Made_with-Python-blue.svg)
 
 ## Project Overview
