@@ -15,7 +15,7 @@
   This project aims to analyze the sentiment of tweets, classifying them into four categories: positive, negative, neutral, and irrelevant. 
   By leveraging natural language processing (NLP) techniques, the project will extract the emotional tone of tweets, providing valuable 
   insights into public opinion on specific topics, brand perception, or event reception. 
-  This sentiment analysis will go beyond a simple positive-negative binary, allowing for a more nuanced understanding of the conversation happening on Twitter.
+  This sentiment analysis will go beyond a simple positive-negative binary, allowing for a more nuanced understanding of the conversation happening on Twitter or you can call it 'X' now.
 </p>
 
 ![Image](https://github.com/rxzv/rpsic/assets/156213717/694cbca1-60dd-47ff-9a87-74efcc559bbb)
