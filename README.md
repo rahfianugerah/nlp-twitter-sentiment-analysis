@@ -6,7 +6,8 @@
 ![Python](https://img.shields.io/badge/Made_with-Python-blue.svg)
 
 <div align="center">
-  <img src="https://github.com/rahfianugerah/nlp-twitter-sentiment-analysis/assets/156213717/1010f123-602b-4fe9-bed1-25b8f212150c"/>
+  <img src="https://github.com/rahfianugerah/nlp-twitter-sentiment-analysis/assets/156213717/1010f123-602b-4fe9-bed1-25b8f212150c" height=150/>
+  <img src="https://github.com/rahfianugerah/nlp-twitterx/assets/156213717/0b7fedc5-2f54-40ff-ab19-af657ae8e061" height=150/>
 </div>
 
 ## Project Overview
