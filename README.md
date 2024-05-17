@@ -1,4 +1,4 @@
-# Natural Language Processing: Twitter Sentiment Analysis using TensorFlow with LTSM
+# Natural Language Processing: Twitter (X) Sentiment Analysis using TensorFlow with LTSM
 
 ![Finished Project]( https://img.shields.io/badge/Finished_Project-Yes-green)
 ![TensorFlow]( https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500)
