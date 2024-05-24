@@ -1,4 +1,4 @@
-# Natural Language Processing: Twitter (X) Sentiment Analysis using TensorFlow with LSTM
+# Implementation of a Deep Learning LSTM Model Based on TensorFlow and NLTK in Sentiment Analysis for Twitter (X) Tweets (Messages) Category Identification with an NLP Approach
 
 ![Finished Project]( https://img.shields.io/badge/Finished_Project-Yes-green)
 ![TensorFlow]( https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500)
